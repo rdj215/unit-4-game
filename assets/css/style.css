@@ -1,0 +1,60 @@
+
+
+.container1 {
+    
+    float: left;
+    
+
+}
+
+#rules {
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    
+    
+}
+
+
+#currentnumber {
+    display: inline-block;
+    background-color: aquamarine;
+    /*position: relative;*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /*float: right;*/
+    padding: 5%
+
+}
+
+#winsLosses {
+    display: inline-block;
+    background-color: blueviolet;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /*float: right;*/
+    padding: 5%;
+    width:15px
+
+}
+
+ #buttons {
+    size: 5%;
+ }
+
+ #totalScore {
+     background-color: blue;
+     width:25%;
+     color:white;
+ }
+
+ #currentValue {
+     color: white;
+     padding: 5%;
+     background-color: black;
+     width: 15%;
+ }
+
+ img {
+     width:150px;
+     height: 150px;
+ }
